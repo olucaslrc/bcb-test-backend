@@ -1,0 +1,10 @@
+{
+  "Email": "john.doe@example.com",
+  "CPF": "123.456.789-00",
+  "CNPJ": "12.345.678/0001-00",
+  "Phone": "987654321",
+  "CompanyName": "ABC Company",
+  "Credits": 0,
+  "CreditsLimit": 100,
+  "Subscription": "Prepaid"
+}
