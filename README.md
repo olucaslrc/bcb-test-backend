@@ -17,7 +17,7 @@
       "Subscription": "Prepaid"
     }`
 
-  Aplicação localmente:
+  Aplicação local:
     Copia o arquivo .env_example e renomeie-o para .env e rode a aplicação de acordo com as instruções abaixo do próprio NestJs
 
 <p align="center">
