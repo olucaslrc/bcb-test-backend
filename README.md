@@ -6,7 +6,7 @@
 
   Exemplo de uso:
     Procure na página de API do swagger o endpoint para adicionar clientes e logo em seguida crie uma requisição:
-    {
+    `{
       "Email": "john.doe@example.com",
       "CPF": "123.456.789-00",
       "CNPJ": "12.345.678/0001-00",
@@ -15,9 +15,9 @@
       "Credits": 0,
       "CreditsLimit": 100,
       "Subscription": "Prepaid"
-    }
+    }`
 
-  Aplicação localmente:
+  Aplicação local:
     Copia o arquivo .env_example e renomeie-o para .env e rode a aplicação de acordo com as instruções abaixo do próprio NestJs
 
 <p align="center">
